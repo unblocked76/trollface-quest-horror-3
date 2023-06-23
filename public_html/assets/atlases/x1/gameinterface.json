@@ -1,0 +1,123 @@
+﻿{"frames": {
+
+"InGameSfxButton0000":
+{
+	"frame": {"x":1,"y":1,"w":90,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":90},
+	"sourceSize": {"w":90,"h":90}
+},
+"InGameSfxButton0001":
+{
+	"frame": {"x":92,"y":1,"w":90,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":90},
+	"sourceSize": {"w":90,"h":90}
+},
+"bg0000":
+{
+	"frame": {"x":183,"y":1,"w":1580,"h":820},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1580,"h":820},
+	"sourceSize": {"w":1580,"h":820}
+},
+"bg10000":
+{
+	"frame": {"x":1,"y":822,"w":850,"h":461},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":850,"h":461},
+	"sourceSize": {"w":850,"h":461}
+},
+"bg20000":
+{
+	"frame": {"x":852,"y":822,"w":790,"h":410},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":790,"h":410},
+	"sourceSize": {"w":790,"h":410}
+},
+"btn_ads0000":
+{
+	"frame": {"x":1,"y":1284,"w":646,"h":223},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":646,"h":223},
+	"sourceSize": {"w":646,"h":223}
+},
+"btn_bg0000":
+{
+	"frame": {"x":648,"y":1284,"w":116,"h":116},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":116,"h":116},
+	"sourceSize": {"w":116,"h":116}
+},
+"hint_icon0000":
+{
+	"frame": {"x":765,"y":1284,"w":56,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":56,"h":80},
+	"sourceSize": {"w":56,"h":80}
+},
+"next_icon0000":
+{
+	"frame": {"x":822,"y":1284,"w":72,"h":84},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":84},
+	"sourceSize": {"w":72,"h":84}
+},
+"reset_icon0000":
+{
+	"frame": {"x":895,"y":1284,"w":80,"h":82},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":82},
+	"sourceSize": {"w":80,"h":82}
+},
+"restart_icon0000":
+{
+	"frame": {"x":976,"y":1284,"w":74,"h":88},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":88},
+	"sourceSize": {"w":74,"h":88}
+},
+"select_icon0000":
+{
+	"frame": {"x":1051,"y":1284,"w":88,"h":76},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":76},
+	"sourceSize": {"w":88,"h":76}
+},
+"use_hint_bg0000":
+{
+	"frame": {"x":1140,"y":1284,"w":466,"h":116},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":466,"h":116},
+	"sourceSize": {"w":466,"h":116}
+},
+"use_hint_bg20000":
+{
+	"frame": {"x":1,"y":1508,"w":466,"h":116},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":466,"h":116},
+	"sourceSize": {"w":466,"h":116}
+}},
+"meta": {
+	"app": "Adobe Flash CS6",
+	"version": "12.0.0.481",
+	"image": "gameinterface.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}

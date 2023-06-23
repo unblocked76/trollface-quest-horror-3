@@ -1,0 +1,27 @@
+﻿{"frames": {
+
+"bg1":
+{
+	"frame": {"x":1,"y":1,"w":1580,"h":820},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1580,"h":820},
+	"sourceSize": {"w":1580,"h":820}
+},
+"cgrave0000":
+{
+	"frame": {"x":1,"y":822,"w":774,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":774,"h":260},
+	"sourceSize": {"w":774,"h":260}
+}},
+"meta": {
+	"app": "Adobe Flash CS6",
+	"version": "12.0.0.481",
+	"image": "theme14.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}
